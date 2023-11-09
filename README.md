@@ -26,9 +26,11 @@ Welcome to the Forkify app, a culinary delight brought to life as part of "The C
 ## Installation
 
 1. **Clone the Repository:**
-   ```bash
+
+```bash
    git clone https://github.com/Barkhad-Awil/forkify-recipe-app.git
-   ```
+```
+
 2. **Navigate to the Project Directory:**
 
 ```bash
@@ -42,9 +44,11 @@ Welcome to the Forkify app, a culinary delight brought to life as part of "The C
 ```
 
 4. **Start the Application:**
-   ```bash
+
+```bash
    npm run start
-   ```
+```
+
 5. **Build for Production:**
 
 ```bash
