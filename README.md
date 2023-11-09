@@ -1,4 +1,4 @@
-# forkify application
+# Forkify Application
 
 ## Overview
 
@@ -73,9 +73,9 @@ Welcome to the Forkify app, a culinary delight brought to life as part of "The C
 
 ## Credits
 
-    This application is a proud creation born from the invaluable teachings of **Jonas Schmedtmann** in his Udemy masterpiece, "**The Complete JavaScript Course 2023: From Zero to Expert!**"
+    This app is a product of Jonas Schmedtmann's Udemy course, "The Complete JavaScript Course 2023: From Zero to Expert!" Special thanks to Jonas for his exceptional teaching and guidance during the course.
 
-    A heartfelt gratitude to Jonas for not just teaching, but for inspiring excellence and providing unwavering guidance throughout this transformative journey.
+    The creation of this app stands as a tribute to the depth and quality of the knowledge shared by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) . His dedication to fostering a strong understanding of JavaScript, coupled with practical implementation, has been instrumental in bringing Forkify to life.
 
 ## Author
 
