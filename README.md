@@ -21,7 +21,7 @@ Welcome to the Forkify app, a culinary delight brought to life as part of "The C
 4. Parcel
 5. NPM
 
-[./Forkify_App_ScreenShot.png]
+[forkify-app screenshot](./Forkify_App_ScreenShot.png)
 
 ## Installation
 
