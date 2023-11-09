@@ -75,7 +75,7 @@ Welcome to the Forkify app, a culinary delight brought to life as part of "The C
 
     This app is a product of Jonas Schmedtmann's Udemy course, "The Complete JavaScript Course 2023: From Zero to Expert!" Special thanks to Jonas for his exceptional teaching and guidance during the course.
 
-    The creation of this app stands as a tribute to the depth and quality of the knowledge shared by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) . His dedication to fostering a strong understanding of JavaScript, coupled with practical implementation, has been instrumental in bringing Forkify to life.
+    The creation of this app stands as a tribute to the depth and quality of the knowledge shared by Jonas Schmedtmann. His dedication to fostering a strong understanding of JavaScript, coupled with practical implementation, has been instrumental in bringing Forkify to life.
 
 ## Author
 
