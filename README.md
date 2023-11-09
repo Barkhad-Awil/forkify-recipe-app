@@ -2,6 +2,8 @@
 
 ## Overview
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40d59bcb-63fa-46bb-812c-b530ea76e424/deploy-status)](https://app.netlify.com/sites/idyllic-sunflower-384d7a/deploys)
+
 Welcome to the Forkify app, a culinary delight brought to life as part of "The Complete JavaScript Course 2023" by Jonas Schmedtmann on Udemy. This project is a web application designed to simplify the recipe discovery process, enabling users to search for, view, and interact with a plethora of delightful recipes. The implementation follows the principles and best practices taught in the course, utilizing HTML, CSS, and Vanilla JavaScript.
 
 ## Features
